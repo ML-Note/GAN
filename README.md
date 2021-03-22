@@ -13,3 +13,7 @@ b站：
 1. [李宏毅对抗生成网络(GAN)国语教程(2018)](https://www.bilibili.com/video/BV1Up411R7Lk?from=search&seid=10930352085418667642)
 2. [Keras 搭建自己的GAN生成对抗网络平台（Bubbliiiing 深度学习 教程）](https://www.bilibili.com/video/BV13J41187Fo?from=search&seid=10930352085418667642)
 3. [GAN生成对抗网络精讲 tensorflow2.0代码实战 全网最简洁易懂的GAN课程](https://www.bilibili.com/video/BV1f7411E7wU?from=search&seid=10930352085418667642)
+
+## 大佬个人主页
+
+1. [李宏毅课程及其个人主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
