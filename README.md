@@ -14,6 +14,10 @@ b站：
 2. [Keras 搭建自己的GAN生成对抗网络平台（Bubbliiiing 深度学习 教程）](https://www.bilibili.com/video/BV13J41187Fo?from=search&seid=10930352085418667642)
 3. [GAN生成对抗网络精讲 tensorflow2.0代码实战 全网最简洁易懂的GAN课程](https://www.bilibili.com/video/BV1f7411E7wU?from=search&seid=10930352085418667642)
 
+油管补充：
+1. [Generative Adversarial Network](https://www.youtube.com/watch?v=0CKeqXl5IY0)
+2. [Improved Generative Adversarial Network](https://www.youtube.com/watch?v=KSN4QYgAtao)
+
 ## 大佬个人主页
 
 1. [李宏毅课程及其个人主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
