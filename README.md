@@ -18,3 +18,7 @@ b站：
 
 1. [李宏毅课程及其个人主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
 2. [李宏毅2018年机器学习课程课件机器视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+
+
+## 论文
+1. [NIPS 2016 Tutorial:Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf)
