@@ -17,3 +17,4 @@ b站：
 ## 大佬个人主页
 
 1. [李宏毅课程及其个人主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
+2. [李宏毅2018年机器学习课程课件机器视频](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
