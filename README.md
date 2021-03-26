@@ -3,6 +3,7 @@
 ## 学习链接
 知乎：
 1.  [通俗理解生成对抗网络GAN](https://zhuanlan.zhihu.com/p/33752313)
+2.  [GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
 
 微信公众号：
 
@@ -28,3 +29,6 @@ b站：
 ## 论文
 1. [NIPS 2016 Tutorial:Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf)
 2. [关于NIPS 2016 Tutorial:Generative Adversarial Networks的视频解读](https://channel9.msdn.com/events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
+
+## Code实现
+1. [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
