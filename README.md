@@ -1,5 +1,10 @@
 # GAN（生成对抗网络）
 
+## 生成模型
+1. [Open AI: generative-models](https://openai.com/blog/generative-models/)
+2. [白板推导生成模型综述](https://www.bilibili.com/video/BV1dE411u7TK)
+
+
 ## 学习链接
 知乎：
 1.  [通俗理解生成对抗网络GAN](https://zhuanlan.zhihu.com/p/33752313)
