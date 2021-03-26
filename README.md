@@ -27,3 +27,4 @@ b站：
 
 ## 论文
 1. [NIPS 2016 Tutorial:Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf)
+2. [关于NIPS 2016 Tutorial:Generative Adversarial Networks的视频解读](https://channel9.msdn.com/events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
