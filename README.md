@@ -41,3 +41,4 @@ b站：
 
 ## Kaggle比赛
 CycleGan算法：https://www.kaggle.com/linshokaku/cyclegan-submission
+关于Cycle Gan的历史：https://www.jiqizhixin.com/graph/technologies/d7606f55-9fe5-40a6-b9ac-f2d639ad9c25
