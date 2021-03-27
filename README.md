@@ -37,3 +37,7 @@ b站：
 
 ## Code实现
 1. [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
+
+
+## Kaggle比赛
+CycleGan算法：https://www.kaggle.com/linshokaku/cyclegan-submission
