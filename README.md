@@ -1,5 +1,7 @@
 # GAN（生成对抗网络）
 
+[SDA_GAN](https://github.com/QuantLet/1d_GAN)
+
 ## 生成模型
 1. [Open AI: generative-models](https://openai.com/blog/generative-models/)
 2. [白板推导生成模型综述](https://www.bilibili.com/video/BV1dE411u7TK)
