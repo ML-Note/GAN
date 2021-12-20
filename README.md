@@ -2,6 +2,8 @@
 
 [SDA_GAN](https://github.com/QuantLet/1d_GAN)
 
+[深度学习--GAN学习笔记 【RankFan】](https://www.cnblogs.com/RankFan/p/14698932.html)
+
 ## 生成模型
 1. [Open AI: generative-models](https://openai.com/blog/generative-models/)
 2. [白板推导生成模型综述](https://www.bilibili.com/video/BV1dE411u7TK)
